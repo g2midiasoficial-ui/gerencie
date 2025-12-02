@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gerencie",
+  "description": "Uma plataforma completa de gestão financeira para finanças pessoais e empresariais, com dashboards, gestão de estoque, manutenção de veículos e insights com IA.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
